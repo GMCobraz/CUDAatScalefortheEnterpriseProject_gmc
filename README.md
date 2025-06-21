@@ -1,4 +1,4 @@
-# Image Rotation using NVIDIA NPP with CUDA
+# RGB to Grayscale Conversion using NVIDIA NPP with CUDA
 
 ## Overview
 
